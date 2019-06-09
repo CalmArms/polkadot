@@ -1,6 +1,6 @@
 # Polkadot ·
 
-Polkadot is a super simple, mildly opinionated and lightweight web server built on [Polka](https://github.com/lukeed/polka).
+Polkadot is a super simple, mildly opinionated and lightweight web framework built on [Polka](https://github.com/lukeed/polka).
 
 It supports the **necessities**:
 - Static asset server `./src/public/assets/...`
