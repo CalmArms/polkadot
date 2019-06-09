@@ -1,0 +1,31 @@
+html {
+    color: #333333;
+    font-family: sans-serif;
+    line-height: 1.6;
+}
+
+a {
+    color: #0074D9;
+    text-decoration: none;
+}
+
+a:focus, a:hover {
+    text-decoration: underline;
+}
+
+code {
+    background-color: #F3F3F3;
+    border-radius: 3px;
+    color: #FF4136;
+    padding: 0.125rem 0.25rem;
+}
+
+.main {
+    margin: 0 auto;
+    max-width: 41rem;
+    padding: 1rem 1rem 0;
+}
+
+.text-center {
+    text-align: center;
+}

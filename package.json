@@ -1,0 +1,29 @@
+{
+  "name": "polkadot",
+  "version": "0.1.0",
+  "description": "\"Super simple and lightweight web server built on Polka\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalmArms/polkadot.git"
+  },
+  "keywords": [
+    "server",
+    "polka"
+  ],
+  "author": "calmarms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CalmArms/polkadot/issues"
+  },
+  "homepage": "https://github.com/CalmArms/polkadot#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "polka": "^0.5.2",
+    "send": "^0.17.1",
+    "sirv": "^0.4.2"
+  }
+}
